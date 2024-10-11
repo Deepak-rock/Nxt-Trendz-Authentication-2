@@ -108,7 +108,14 @@
   margin: 0px;
   cursor: pointer;
 }
-
+.nav-link {
+  font-family: 'Roboto';
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #475569;
+}
 .logout-desktop-btn {
   font-family: 'Roboto';
   font-weight: 600;
